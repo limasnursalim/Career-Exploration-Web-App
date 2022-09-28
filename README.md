@@ -1,5 +1,8 @@
 # STEM Career Exploration Web App
 
+## Database E-R Diagram
+![E-R Diagram](https://github.com/limasnursalim/Career-Exploration-Web-App/blob/main/docs/img/Final%20ER%20diagram.PNG)
+
 ## Introduction
 STEM professionals are well compensated and highly in demand. Yet, the STEM training
 pipeline appears to be leaky. Many students who start out in pursuit of STEM degrees end up
@@ -54,9 +57,6 @@ by a number of governmental agencies. The curated exposure to STEM-related occup
 the process described in this proposal facilitates should systematically increase students’
 persistence in both STEM-related college degrees, and following graduation subsequent
 persistence toward and into STEM-related careers.
-
-## Database E-R Diagram
-![E-R Diagram](https://github.com/limasnursalim/Career-Exploration-Web-App/blob/main/docs/img/Final%20ER%20diagram.PNG)
 
 ## UI Screenshots
 ![Login Page](https://github.com/limasnursalim/Career-Exploration-Web-App/blob/main/docs/img/LoginPage.png)
